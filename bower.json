@@ -1,0 +1,21 @@
+{
+  "name": "wood",
+  "version": "0.0.0",
+  "authors": [
+    "Sema"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Nivo-Lightbox": "https://github.com/gilbitron/Nivo-Lightbox.git#~1.2.0"
+  }
+}
