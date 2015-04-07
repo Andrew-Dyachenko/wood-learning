@@ -21,7 +21,12 @@ main {
 	color: #fff;
 	font-size: 21px;
 }
+#photo-gallery h1 {
+	margin-top: 0;
+	margin-bottom: 30px;
+}
 #photo-gallery .item {
+	overflow: hidden;
 	display: block;
 	margin-bottom: 30px;
 }
