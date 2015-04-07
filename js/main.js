@@ -10,9 +10,11 @@ $(document).ready(function () {
 	    });
 	    $('#photo-gallery .item').height(biggestHeight); 
 	}
-	equalHeight();
+	
 	$(window).resize(function () {
 		$('#photo-gallery .item').removeAttr('style');
 		equalHeight();
 	});
+
+	equalHeight();
 });
