@@ -28,6 +28,5 @@ $(document).ready(function () {
 		else {
 			clearInterval(interval);
 		}
-		console.log('int');
 	}, 1000);
 });
