@@ -94,6 +94,11 @@
 							Фотогалерея
 						</a>
 					</li>
+					<li>
+						<a href="video-gallery.php">
+							Видеогалерея
+						</a>
+					</li>
 				</ul>
 			</div>
 		</nav>
