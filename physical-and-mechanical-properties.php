@@ -52,113 +52,115 @@
 		<h2>
 			Текстура пород древесины
 		</h2>
-		<table class="table table-bordered">
-			<caption>
-				<i>
-					Таблица 1.
-				</i>
-			</caption>
-			<thead>
-				<tr>
-					<th>Название древесины</th>
-					<th>Текстура</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>Акация белая</td>
-					<td>Полосы, кольца, тонкие линии</td>
-				</tr>
-				<tr>
-					<td>Амарант</td>
-					<td>Темно-коричневые полосы, черточки</td>
-				</tr>
-				<tr>
-					<td>Береза обыкновенная</td>
-					<td>Муаровый рисунок, шелковистый блеск</td>
-				</tr>
-				<tr>
-					<td>Береза карельская</td>
-					<td>Рисунок в виде коричневых извилин или черточек, яркая</td>
-				</tr>
-				<tr>
-					<td>Бук</td>
-					<td>Блестящие крапинки, темные тонкие штрихи</td>
-				</tr>
-				<tr>
-					<td>Вишня</td>
-					<td>Порода ядровая, полосатая</td>
-				</tr>
-				<tr>
-					<td>Граб</td>
-					<td>Текстура слабо выражена</td>
-				</tr>
-				<tr>
-					<td>Груша</td>
-					<td>Текстура слабо выражена, однородная</td>
-				</tr>
-				<tr>
-					<td>Дуб</td>
-					<td>Крупная текстура с годичными слоями, крупными сосудами, сердцевинными лучами в виде язычков пламени, темных штрихов</td>
-				</tr>
-				<tr>
-					<td>Карагач</td>
-					<td>Муаровая текстура с шелковистым блеском</td>
-				</tr>
-				<tr>
-					<td>Клен русский</td>
-					<td>Нежная розовая текстура, шелковистый блеск</td>
-				</tr>
-				<tr>
-					<td>Клен: явор и "птичий глаз"</td>
-					<td>Шелковистый блеск</td>
-				</tr>
-				<tr>
-					<td>Лимонное дерево</td>
-					<td>Ленточная текстура</td>
-				</tr>
-				<tr>
-					<td>Махагони</td>
-					<td>Ленточная структура</td>
-				</tr>
-				<tr>
-					<td>Ольха</td>
-					<td>Текстура выражена</td>
-				</tr>
-				<tr>
-					<td>Орех грецкий</td>
-					<td>Красивая текстура с темными прожилками</td>
-				</tr>
-				<tr>
-					<td>Осина</td>
-					<td>Текстура слабо выражена</td>
-				</tr>
-				<tr>
-					<td>Палисандр</td>
-					<td>Текстура крупная, выразительная с темными короткими черточками</td>
-				</tr>
-				<tr>
-					<td>Рябина</td>
-					<td>С мелкими порами, слабо выражена</td>
-				</tr>
-				<tr>
-					<td>Самшит</td>
-					<td>Текстура с едва заметными прожилками, слабо выражена</td>
-				</tr>
-				<tr>
-					<td>Тик</td>
-					<td>Текстура крупная, выразительная. Напоминает текстуру ореха</td>
-				</tr>
-				<tr>
-					<td>Яблоня</td>
-					<td>Текстура слабо выражена, однородная</td>
-				</tr>
-				<tr>
-					<td>Ясень</td>
-					<td>Текстура резко выражена в виде полос</td>
-				</tr>
-			</tbody>
-		</table>
+		<div class="table-responsive">
+			<table class="table table-bordered table-hover">
+				<caption>
+					<i>
+						Таблица 1.
+					</i>
+				</caption>
+				<thead>
+					<tr>
+						<th>Название древесины</th>
+						<th>Текстура</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Акация белая</td>
+						<td>Полосы, кольца, тонкие линии</td>
+					</tr>
+					<tr>
+						<td>Амарант</td>
+						<td>Темно-коричневые полосы, черточки</td>
+					</tr>
+					<tr>
+						<td>Береза обыкновенная</td>
+						<td>Муаровый рисунок, шелковистый блеск</td>
+					</tr>
+					<tr>
+						<td>Береза карельская</td>
+						<td>Рисунок в виде коричневых извилин или черточек, яркая</td>
+					</tr>
+					<tr>
+						<td>Бук</td>
+						<td>Блестящие крапинки, темные тонкие штрихи</td>
+					</tr>
+					<tr>
+						<td>Вишня</td>
+						<td>Порода ядровая, полосатая</td>
+					</tr>
+					<tr>
+						<td>Граб</td>
+						<td>Текстура слабо выражена</td>
+					</tr>
+					<tr>
+						<td>Груша</td>
+						<td>Текстура слабо выражена, однородная</td>
+					</tr>
+					<tr>
+						<td>Дуб</td>
+						<td>Крупная текстура с годичными слоями, крупными сосудами, сердцевинными лучами в виде язычков пламени, темных штрихов</td>
+					</tr>
+					<tr>
+						<td>Карагач</td>
+						<td>Муаровая текстура с шелковистым блеском</td>
+					</tr>
+					<tr>
+						<td>Клен русский</td>
+						<td>Нежная розовая текстура, шелковистый блеск</td>
+					</tr>
+					<tr>
+						<td>Клен: явор и "птичий глаз"</td>
+						<td>Шелковистый блеск</td>
+					</tr>
+					<tr>
+						<td>Лимонное дерево</td>
+						<td>Ленточная текстура</td>
+					</tr>
+					<tr>
+						<td>Махагони</td>
+						<td>Ленточная структура</td>
+					</tr>
+					<tr>
+						<td>Ольха</td>
+						<td>Текстура выражена</td>
+					</tr>
+					<tr>
+						<td>Орех грецкий</td>
+						<td>Красивая текстура с темными прожилками</td>
+					</tr>
+					<tr>
+						<td>Осина</td>
+						<td>Текстура слабо выражена</td>
+					</tr>
+					<tr>
+						<td>Палисандр</td>
+						<td>Текстура крупная, выразительная с темными короткими черточками</td>
+					</tr>
+					<tr>
+						<td>Рябина</td>
+						<td>С мелкими порами, слабо выражена</td>
+					</tr>
+					<tr>
+						<td>Самшит</td>
+						<td>Текстура с едва заметными прожилками, слабо выражена</td>
+					</tr>
+					<tr>
+						<td>Тик</td>
+						<td>Текстура крупная, выразительная. Напоминает текстуру ореха</td>
+					</tr>
+					<tr>
+						<td>Яблоня</td>
+						<td>Текстура слабо выражена, однородная</td>
+					</tr>
+					<tr>
+						<td>Ясень</td>
+						<td>Текстура резко выражена в виде полос</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
 		<h2>
 			Запах древесины.
 		</h2>
@@ -187,77 +189,79 @@
 		<h3>
 			Средняя влажность в свежесрубленном состоянии, %
 		</h3>
-		<table class="table table-bordered">
-			<caption>
-				<i>
-					Таблица2.
-				</i>
-			</caption>
-			<thead>
-				<tr>
-					<th>Порода</th>
-					<th class="text-center">%</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>Ель</td>
-					<td class="text-center">91</td>
-				</tr>
-				<tr>
-					<td>Лиственница</td>
-					<td class="text-center">82</td>
-				</tr>
-				<tr>
-					<td>Пихта</td>
-					<td class="text-center">101</td>
-				</tr>
-				<tr>
-					<td>Сосна обыкновенная</td>
-					<td class="text-center">88</td>
-				</tr>
-				<tr>
-					<td>Сосна кедровая сибирская</td>
-					<td class="text-center">92</td>
-				</tr>
-				<tr>
-					<td>Липа мелколистная</td>
-					<td class="text-center">60</td>
-				</tr>
-				<tr>
-					<td>Осина</td>
-					<td class="text-center">82</td>
-				</tr>
-				<tr>
-					<td>Ольха</td>
-					<td class="text-center">84</td>
-				</tr>
-				<tr>
-					<td>Тополь</td>
-					<td class="text-center">93</td>
-				</tr>
-				<tr>
-					<td>Береза</td>
-					<td class="text-center">78</td>
-				</tr>
-				<tr>
-					<td>Бук</td>
-					<td class="text-center">64</td>
-				</tr>
-				<tr>
-					<td>Вяз</td>
-					<td class="text-center">78</td>
-				</tr>
-				<tr>
-					<td>Дуб</td>
-					<td class="text-center">50</td>
-				</tr>
-				<tr>
-					<td>Ясень обыкновенный</td>
-					<td class="text-center">36</td>
-				</tr>
-			</tbody>
-		</table>
+		<div class="table-responsive">
+			<table class="table table-bordered table-hover">
+				<caption>
+					<i>
+						Таблица 2.
+					</i>
+				</caption>
+				<thead>
+					<tr>
+						<th>Порода</th>
+						<th class="text-center">%</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Ель</td>
+						<td class="text-center">91</td>
+					</tr>
+					<tr>
+						<td>Лиственница</td>
+						<td class="text-center">82</td>
+					</tr>
+					<tr>
+						<td>Пихта</td>
+						<td class="text-center">101</td>
+					</tr>
+					<tr>
+						<td>Сосна обыкновенная</td>
+						<td class="text-center">88</td>
+					</tr>
+					<tr>
+						<td>Сосна кедровая сибирская</td>
+						<td class="text-center">92</td>
+					</tr>
+					<tr>
+						<td>Липа мелколистная</td>
+						<td class="text-center">60</td>
+					</tr>
+					<tr>
+						<td>Осина</td>
+						<td class="text-center">82</td>
+					</tr>
+					<tr>
+						<td>Ольха</td>
+						<td class="text-center">84</td>
+					</tr>
+					<tr>
+						<td>Тополь</td>
+						<td class="text-center">93</td>
+					</tr>
+					<tr>
+						<td>Береза</td>
+						<td class="text-center">78</td>
+					</tr>
+					<tr>
+						<td>Бук</td>
+						<td class="text-center">64</td>
+					</tr>
+					<tr>
+						<td>Вяз</td>
+						<td class="text-center">78</td>
+					</tr>
+					<tr>
+						<td>Дуб</td>
+						<td class="text-center">50</td>
+					</tr>
+					<tr>
+						<td>Ясень обыкновенный</td>
+						<td class="text-center">36</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
 		<h2>
 			Усушка.
 		</h2>
@@ -272,150 +276,152 @@
 				Усушка древесины (от водонасыщенного состояния до абсолютно сухого)
 			</strong>
 		</p>
-		<table class="table table-bordered">
-			<caption>
-				<i>
-					Таблица3.
-				</i>
-			</caption>
-			<thead>
+		<div class="table-responsive">
+			<table class="table table-bordered table-hover">
+				<caption>
+					<i>
+						Таблица 3.
+					</i>
+				</caption>
+				<thead>
+					<tr>
+						<th rowspan="2" class="vcenter text-center">
+							Вид древесины
+						</th>
+						<th colspan="3" class="text-center">
+							Усушка%
+						</th>
+					</tr>
+					<tr>
+						<th class="text-center">
+							В продольном направлении
+						</th>
+						<th class="text-center">
+							В тангенциальном направлении
+						</th>
+						<th class="text-center">
+							В радиальном направлении
+						</th>
+					</tr>
+				</thead>
+				<tbody>
 				<tr>
-					<th rowspan="2" class="vcenter text-center">
-						Вид древесины
-					</th>
-					<th colspan="3" class="text-center">
-						Усушка%
-					</th>
+					<td>Афзелия</td>
+					<td class="text-center">0,2</td>
+					<td class="text-center">4-4,5</td>
+					<td class="text-center">2-3</td>
 				</tr>
 				<tr>
-					<th class="text-center">
-						В продольном направлении
-					</th>
-					<th class="text-center">
-						В тангенциальном направлении
-					</th>
-					<th class="text-center">
-						В радиальном направлении
-					</th>
+					<td>Бальсовое дерево</td>
+					<td class="text-center">0,6</td>
+					<td class="text-center">3-5</td>
+					<td class="text-center">2-3</td>
 				</tr>
-			</thead>
-			<tbody>
-			<tr>
-				<td>Афзелия</td>
-				<td class="text-center">0,2</td>
-				<td class="text-center">4-4,5</td>
-				<td class="text-center">2-3</td>
-			</tr>
-			<tr>
-				<td>Бальсовое дерево</td>
-				<td class="text-center">0,6</td>
-				<td class="text-center">3-5</td>
-				<td class="text-center">2-3</td>
-			</tr>
-			<tr>
-				<td>Береза</td>
-				<td class="text-center">0,6</td>
-				<td class="text-center">3-5</td>
-				<td class="text-center">2-3</td>
-			</tr>
-			<tr>
-				<td>Бук белый</td>
-				<td class="text-center">0,5</td>
-				<td class="text-center">10-12</td>
-				<td class="text-center">6-7</td>
-			</tr>
-			<tr>
-				<td>Бук лесной</td>
-				<td class="text-center">0,3</td>
-				<td class="text-center">8-12</td>
-				<td class="text-center">6-9</td>
-			</tr>
-			<tr>
-				<td>Вишня</td>
-				<td class="text-center">0,3</td>
-				<td class="text-center">7-8</td>
-				<td class="text-center">4-5</td>
-			</tr>
-			<tr>
-				<td>Вяз</td>
-				<td class="text-center">0,3</td>
-				<td class="text-center">8</td>
-				<td class="text-center">4,5</td>
-			</tr>
-			<tr>
-				<td>Груша</td>
-				<td class="text-center">0,4</td>
-				<td class="text-center">7-9</td>
-				<td class="text-center">4-5</td>
-			</tr>
-			<tr>
-				<td>Дуб</td>
-				<td class="text-center">0,4</td>
-				<td class="text-center">8-10</td>
-				<td class="text-center">4-5</td>
-			</tr>
-			<tr>
-				<td>Ель</td>
-				<td class="text-center">0,3</td>
-				<td class="text-center">6-8</td>
-				<td class="text-center">3-4</td>
-			</tr>
-			<tr>
-				<td>Клен</td>
-				<td class="text-center">0,5</td>
-				<td class="text-center">5-8</td>
-				<td class="text-center">3-4</td>
-			</tr>
-			<tr>
-				<td>Лимб</td>
-				<td class="text-center">0,2</td>
-				<td class="text-center">4,5-7,5</td>
-				<td class="text-center">3-6</td>
-			</tr>
-			<tr>
-				<td>Лиственница</td>
-				<td class="text-center">0,3</td>
-				<td class="text-center">7-8</td>
-				<td class="text-center">3-5</td>
-			</tr>
-			<tr>
-				<td>Орех</td>
-				<td class="text-center">0,5</td>
-				<td class="text-center">8-12</td>
-				<td class="text-center">5-6</td>
-			</tr>
-			<tr>
-				<td>Пихта</td>
-				<td class="text-center">0,1</td>
-				<td class="text-center">7-9</td>
-				<td class="text-center">3-4</td>
-			</tr>
-			<tr>
-				<td>Сосна (обычная)</td>
-				<td class="text-center">0,4</td>
-				<td class="text-center">6-8</td>
-				<td class="text-center">3-4</td>
-			</tr>
-			<tr>
-				<td>Сосна смолистая</td>
-				<td class="text-center">0,2</td>
-				<td class="text-center">7-7,5</td>
-				<td class="text-center">4-5</td>
-			</tr>
-			<tr>
-				<td>Тик</td>
-				<td class="text-center">0,4</td>
-				<td class="text-center">4,5-6</td>
-				<td class="text-center">2-3</td>
-			</tr>
-			<tr>
-				<td>Ясень</td>
-				<td class="text-center">0,2</td>
-				<td class="text-center">7-8</td>
-				<td class="text-center">4-5</td>
-			</tr>
-			</tbody>
-		</table>
+				<tr>
+					<td>Береза</td>
+					<td class="text-center">0,6</td>
+					<td class="text-center">3-5</td>
+					<td class="text-center">2-3</td>
+				</tr>
+				<tr>
+					<td>Бук белый</td>
+					<td class="text-center">0,5</td>
+					<td class="text-center">10-12</td>
+					<td class="text-center">6-7</td>
+				</tr>
+				<tr>
+					<td>Бук лесной</td>
+					<td class="text-center">0,3</td>
+					<td class="text-center">8-12</td>
+					<td class="text-center">6-9</td>
+				</tr>
+				<tr>
+					<td>Вишня</td>
+					<td class="text-center">0,3</td>
+					<td class="text-center">7-8</td>
+					<td class="text-center">4-5</td>
+				</tr>
+				<tr>
+					<td>Вяз</td>
+					<td class="text-center">0,3</td>
+					<td class="text-center">8</td>
+					<td class="text-center">4,5</td>
+				</tr>
+				<tr>
+					<td>Груша</td>
+					<td class="text-center">0,4</td>
+					<td class="text-center">7-9</td>
+					<td class="text-center">4-5</td>
+				</tr>
+				<tr>
+					<td>Дуб</td>
+					<td class="text-center">0,4</td>
+					<td class="text-center">8-10</td>
+					<td class="text-center">4-5</td>
+				</tr>
+				<tr>
+					<td>Ель</td>
+					<td class="text-center">0,3</td>
+					<td class="text-center">6-8</td>
+					<td class="text-center">3-4</td>
+				</tr>
+				<tr>
+					<td>Клен</td>
+					<td class="text-center">0,5</td>
+					<td class="text-center">5-8</td>
+					<td class="text-center">3-4</td>
+				</tr>
+				<tr>
+					<td>Лимб</td>
+					<td class="text-center">0,2</td>
+					<td class="text-center">4,5-7,5</td>
+					<td class="text-center">3-6</td>
+				</tr>
+				<tr>
+					<td>Лиственница</td>
+					<td class="text-center">0,3</td>
+					<td class="text-center">7-8</td>
+					<td class="text-center">3-5</td>
+				</tr>
+				<tr>
+					<td>Орех</td>
+					<td class="text-center">0,5</td>
+					<td class="text-center">8-12</td>
+					<td class="text-center">5-6</td>
+				</tr>
+				<tr>
+					<td>Пихта</td>
+					<td class="text-center">0,1</td>
+					<td class="text-center">7-9</td>
+					<td class="text-center">3-4</td>
+				</tr>
+				<tr>
+					<td>Сосна (обычная)</td>
+					<td class="text-center">0,4</td>
+					<td class="text-center">6-8</td>
+					<td class="text-center">3-4</td>
+				</tr>
+				<tr>
+					<td>Сосна смолистая</td>
+					<td class="text-center">0,2</td>
+					<td class="text-center">7-7,5</td>
+					<td class="text-center">4-5</td>
+				</tr>
+				<tr>
+					<td>Тик</td>
+					<td class="text-center">0,4</td>
+					<td class="text-center">4,5-6</td>
+					<td class="text-center">2-3</td>
+				</tr>
+				<tr>
+					<td>Ясень</td>
+					<td class="text-center">0,2</td>
+					<td class="text-center">7-8</td>
+					<td class="text-center">4-5</td>
+				</tr>
+				</tbody>
+			</table>
+		</div>
 		<h3>
 			Внутренние напряжения
 		</h3>
@@ -458,259 +464,261 @@
 				Плотность древесины (г/см3)
 			</i>
 		</strong>
-		<table class="table table-bordered">
-			<caption>
-				<i>
-					Таблица 4.
-				</i>
-			</caption>
-			<tbody>
-				<tr>
-					<th>Бальса</th>
-					<th class="text-center">0.15</th>
-				</tr>
-				<tr>
-					<td>Пихта сибирская</td>
-					<td class="text-center">0.39</td>
-				</tr>
-				<tr>
-					<td>Секвойя вечнозеленая</td>
-					<td class="text-center">0.41</td>
-				</tr>
-				<tr>
-					<td>Ель</td>
-					<td class="text-center">0.45</td>
-				</tr>
-				<tr>
-					<td>Ива</td>
-					<td class="text-center">0.46</td>
-				</tr>
-				<tr>
-					<td>Ольха</td>
-					<td class="text-center">0.49</td>
-				</tr>
-				<tr>
-					<td>Осина</td>
-					<td class="text-center">0.51</td>
-				</tr>
-				<tr>
-					<td>Сосна</td>
-					<td class="text-center">0.52</td>
-				</tr>
-				<tr>
-					<td>Липа</td>
-					<td class="text-center">0.53</td>
-				</tr>
-				<tr>
-					<td>Красное дерево</td>
-					<td class="text-center">0.54</td>
-				</tr>
-				<tr>
-					<td>Конский каштан</td>
-					<td class="text-center">0.56</td>
-				</tr>
-				<tr>
-					<td>Каштан съедобный</td>
-					<td class="text-center">0.59</td>
-				</tr>
-				<tr>
-					<td>Кипарис</td>
-					<td class="text-center">0.60</td>
-				</tr>
-				<tr>
-					<td>Черемуха</td>
-					<td class="text-center">0.61</td>
-				</tr>
-				<tr>
-					<td>Сапелли</td>
-					<td class="text-center">0.62</td>
-				</tr>
-				<tr>
-					<td>Лещина</td>
-					<td class="text-center">0.63</td>
-				</tr>
-				<tr>
-					<td>Орех грецкий</td>
-					<td class="text-center">0.64</td>
-				</tr>
-				<tr>
-					<td>Береза</td>
-					<td class="text-center">0.65</td>
-				</tr>
-				<tr>
-					<td>Вишня</td>
-					<td class="text-center">0.66</td>
-				</tr>
-				<tr>
-					<td>Вяз гладкий</td>
-					<td class="text-center">0.66</td>
-				</tr>
-				<tr>
-					<td>Лиственница</td>
-					<td class="text-center">0.66</td>
-				</tr>
-				<tr>
-					<td>Клен полевой</td>
-					<td class="text-center">0.67</td>
-				</tr>
-				<tr>
-					<td>Тиковое дерево</td>
-					<td class="text-center">0.67</td>
-				</tr>
-				<tr>
-					<td>Бук</td>
-					<td class="text-center">0.68</td>
-				</tr>
-				<tr>
-					<td>Груша</td>
-					<td class="text-center">0.69</td>
-				</tr>
-				<tr>
-					<td>Дуб</td>
-					<td class="text-center">0.69</td>
-				</tr>
-				<tr>
-					<td>Афрормозия</td>
-					<td class="text-center">0.70</td>
-				</tr>
-				<tr>
-					<td>Свитения (махагони)</td>
-					<td class="text-center">0.70</td>
-				</tr>
-				<tr>
-					<td>Платан</td>
-					<td class="text-center">0.70</td>
-				</tr>
-				<tr>
-					<td>Жостер (крушина)</td>
-					<td class="text-center">0.71</td>
-				</tr>
-				<tr>
-					<td>Граб</td>
-					<td class="text-center">0.75</td>
-				</tr>
-				<tr>
-					<td>Падук</td>
-					<td class="text-center">0.75</td>
-				</tr>
-				<tr>
-					<td>Тисс</td>
-					<td class="text-center">0.75</td>
-				</tr>
-				<tr>
-					<td>Ясень</td>
-					<td class="text-center">0.75</td>
-				</tr>
-				<tr>
-					<td>Дуссия</td>
-					<td class="text-center">0.80</td>
-				</tr>
-				<tr>
-					<td>Кемпас</td>
-					<td class="text-center">0.80</td>
-				</tr>
-				<tr>
-					<td>Слива</td>
-					<td class="text-center">0.80</td>
-				</tr>
-				<tr>
-					<td>Сирень</td>
-					<td class="text-center">0.80</td>
-				</tr>
-				<tr>
-					<td>Ятоба (мареил)</td>
-					<td class="text-center">0.80</td>
-				</tr>
-				<tr>
-					<td>Кулахи</td>
-					<td class="text-center">0.83</td>
-				</tr>
-				<tr>
-					<td>Мутения</td>
-					<td class="text-center">0.83</td>
-				</tr>
-				<tr>
-					<td>Палисандр</td>
-					<td class="text-center">0.83</td>
-				</tr>
-				<tr>
-					<td>Венге</td>
-					<td class="text-center">0.84</td>
-				</tr>
-				<tr>
-					<td>Лапачо</td>
-					<td class="text-center">0.84</td>
-				</tr>
-				<tr>
-					<td>Олива</td>
-					<td class="text-center">0.85</td>
-				</tr>
-				<tr>
-					<td>Сандаловое дерево</td>
-					<td class="text-center">0.85</td>
-				</tr>
-				<tr>
-					<td>Панга-панга</td>
-					<td class="text-center">0.85</td>
-				</tr>
-				<tr>
-					<td>Самшит</td>
-					<td class="text-center">0.90</td>
-				</tr>
-				<tr>
-					<td>Лим</td>
-					<td class="text-center">0.90</td>
-				</tr>
-				<tr>
-					<td>Палисандр</td>
-					<td class="text-center">0.90</td>
-				</tr>
-				<tr>
-					<td>Сукупира</td>
-					<td class="text-center">0.90</td>
-				</tr>
-				<tr>
-					<td>Кумару</td>
-					<td class="text-center">0.95</td>
-				</tr>
-				<tr>
-					<td>Хурма эбеновая</td>
-					<td class="text-center">0.96</td>
-				</tr>
-				<tr>
-					<td>Черное дерево</td>
-					<td class="text-center">0.97</td>
-				</tr>
-				<tr>
-					<td>Квебрахо</td>
-					<td class="text-center">1.00</td>
-				</tr>
-				<tr>
-					<td>Гваякум или бакаут</td>
-					<td class="text-center">1.00</td>
-				</tr>
-				<tr>
-					<td>Кумару</td>
-					<td class="text-center">1.10</td>
-				</tr>
-				<tr>
-					<td>Хурма эбеновая</td>
-					<td class="text-center">1.08</td>
-				</tr>
-				<tr>
-					<td>Черное дерево</td>
-					<td class="text-center">1.16</td>
-				</tr>
-				<tr>
-					<td>Квебрахо</td>
-					<td class="text-center">1.21</td>
-				</tr>
-				<tr>
-					<td>Гваякум или бакаут</td>
-					<td class="text-center">1.28</td>
-				</tr>
-			</tbody>
-		</table>
+		<div class="table-responsive">
+			<table class="table table-bordered table-hover">
+				<caption>
+					<i>
+						Таблица 4.
+					</i>
+				</caption>
+				<tbody>
+					<tr>
+						<td>Бальса</td>
+						<td class="text-center">0.15</td>
+					</tr>
+					<tr>
+						<td>Пихта сибирская</td>
+						<td class="text-center">0.39</td>
+					</tr>
+					<tr>
+						<td>Секвойя вечнозеленая</td>
+						<td class="text-center">0.41</td>
+					</tr>
+					<tr>
+						<td>Ель</td>
+						<td class="text-center">0.45</td>
+					</tr>
+					<tr>
+						<td>Ива</td>
+						<td class="text-center">0.46</td>
+					</tr>
+					<tr>
+						<td>Ольха</td>
+						<td class="text-center">0.49</td>
+					</tr>
+					<tr>
+						<td>Осина</td>
+						<td class="text-center">0.51</td>
+					</tr>
+					<tr>
+						<td>Сосна</td>
+						<td class="text-center">0.52</td>
+					</tr>
+					<tr>
+						<td>Липа</td>
+						<td class="text-center">0.53</td>
+					</tr>
+					<tr>
+						<td>Красное дерево</td>
+						<td class="text-center">0.54</td>
+					</tr>
+					<tr>
+						<td>Конский каштан</td>
+						<td class="text-center">0.56</td>
+					</tr>
+					<tr>
+						<td>Каштан съедобный</td>
+						<td class="text-center">0.59</td>
+					</tr>
+					<tr>
+						<td>Кипарис</td>
+						<td class="text-center">0.60</td>
+					</tr>
+					<tr>
+						<td>Черемуха</td>
+						<td class="text-center">0.61</td>
+					</tr>
+					<tr>
+						<td>Сапелли</td>
+						<td class="text-center">0.62</td>
+					</tr>
+					<tr>
+						<td>Лещина</td>
+						<td class="text-center">0.63</td>
+					</tr>
+					<tr>
+						<td>Орех грецкий</td>
+						<td class="text-center">0.64</td>
+					</tr>
+					<tr>
+						<td>Береза</td>
+						<td class="text-center">0.65</td>
+					</tr>
+					<tr>
+						<td>Вишня</td>
+						<td class="text-center">0.66</td>
+					</tr>
+					<tr>
+						<td>Вяз гладкий</td>
+						<td class="text-center">0.66</td>
+					</tr>
+					<tr>
+						<td>Лиственница</td>
+						<td class="text-center">0.66</td>
+					</tr>
+					<tr>
+						<td>Клен полевой</td>
+						<td class="text-center">0.67</td>
+					</tr>
+					<tr>
+						<td>Тиковое дерево</td>
+						<td class="text-center">0.67</td>
+					</tr>
+					<tr>
+						<td>Бук</td>
+						<td class="text-center">0.68</td>
+					</tr>
+					<tr>
+						<td>Груша</td>
+						<td class="text-center">0.69</td>
+					</tr>
+					<tr>
+						<td>Дуб</td>
+						<td class="text-center">0.69</td>
+					</tr>
+					<tr>
+						<td>Афрормозия</td>
+						<td class="text-center">0.70</td>
+					</tr>
+					<tr>
+						<td>Свитения (махагони)</td>
+						<td class="text-center">0.70</td>
+					</tr>
+					<tr>
+						<td>Платан</td>
+						<td class="text-center">0.70</td>
+					</tr>
+					<tr>
+						<td>Жостер (крушина)</td>
+						<td class="text-center">0.71</td>
+					</tr>
+					<tr>
+						<td>Граб</td>
+						<td class="text-center">0.75</td>
+					</tr>
+					<tr>
+						<td>Падук</td>
+						<td class="text-center">0.75</td>
+					</tr>
+					<tr>
+						<td>Тисс</td>
+						<td class="text-center">0.75</td>
+					</tr>
+					<tr>
+						<td>Ясень</td>
+						<td class="text-center">0.75</td>
+					</tr>
+					<tr>
+						<td>Дуссия</td>
+						<td class="text-center">0.80</td>
+					</tr>
+					<tr>
+						<td>Кемпас</td>
+						<td class="text-center">0.80</td>
+					</tr>
+					<tr>
+						<td>Слива</td>
+						<td class="text-center">0.80</td>
+					</tr>
+					<tr>
+						<td>Сирень</td>
+						<td class="text-center">0.80</td>
+					</tr>
+					<tr>
+						<td>Ятоба (мареил)</td>
+						<td class="text-center">0.80</td>
+					</tr>
+					<tr>
+						<td>Кулахи</td>
+						<td class="text-center">0.83</td>
+					</tr>
+					<tr>
+						<td>Мутения</td>
+						<td class="text-center">0.83</td>
+					</tr>
+					<tr>
+						<td>Палисандр</td>
+						<td class="text-center">0.83</td>
+					</tr>
+					<tr>
+						<td>Венге</td>
+						<td class="text-center">0.84</td>
+					</tr>
+					<tr>
+						<td>Лапачо</td>
+						<td class="text-center">0.84</td>
+					</tr>
+					<tr>
+						<td>Олива</td>
+						<td class="text-center">0.85</td>
+					</tr>
+					<tr>
+						<td>Сандаловое дерево</td>
+						<td class="text-center">0.85</td>
+					</tr>
+					<tr>
+						<td>Панга-панга</td>
+						<td class="text-center">0.85</td>
+					</tr>
+					<tr>
+						<td>Самшит</td>
+						<td class="text-center">0.90</td>
+					</tr>
+					<tr>
+						<td>Лим</td>
+						<td class="text-center">0.90</td>
+					</tr>
+					<tr>
+						<td>Палисандр</td>
+						<td class="text-center">0.90</td>
+					</tr>
+					<tr>
+						<td>Сукупира</td>
+						<td class="text-center">0.90</td>
+					</tr>
+					<tr>
+						<td>Кумару</td>
+						<td class="text-center">0.95</td>
+					</tr>
+					<tr>
+						<td>Хурма эбеновая</td>
+						<td class="text-center">0.96</td>
+					</tr>
+					<tr>
+						<td>Черное дерево</td>
+						<td class="text-center">0.97</td>
+					</tr>
+					<tr>
+						<td>Квебрахо</td>
+						<td class="text-center">1.00</td>
+					</tr>
+					<tr>
+						<td>Гваякум или бакаут</td>
+						<td class="text-center">1.00</td>
+					</tr>
+					<tr>
+						<td>Кумару</td>
+						<td class="text-center">1.10</td>
+					</tr>
+					<tr>
+						<td>Хурма эбеновая</td>
+						<td class="text-center">1.08</td>
+					</tr>
+					<tr>
+						<td>Черное дерево</td>
+						<td class="text-center">1.16</td>
+					</tr>
+					<tr>
+						<td>Квебрахо</td>
+						<td class="text-center">1.21</td>
+					</tr>
+					<tr>
+						<td>Гваякум или бакаут</td>
+						<td class="text-center">1.28</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
 		<h3>
 			Теплопроводность
 		</h3>
@@ -727,35 +735,37 @@
 		<h3>
 			Скорость распространения звука в древесине 
 		</h3>
-		<table class="table table-bordered">
-			<caption>
-				Таблица 5.
-			</caption>
-			<thead>
-				<tr>
-					<th>Направление</th>
-					<th class="text-center">Сосна</th>
-					<th class="text-center">Береза</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>Вдоль волокон</td>
-					<td class="text-center">5030</td>
-					<td class="text-center">3625</td>
-				</tr>
-				<tr>
-					<td>В радиальном направлении</td>
-					<td class="text-center">1450</td>
-					<td class="text-center">1995</td>
-				</tr>
-				<tr>
-					<td>В тангенциальном направлении</td>
-					<td class="text-center">850</td>
-					<td class="text-center">1535</td>
-				</tr>
-			</tbody>
-		</table>
+		<div class="table-responsive">
+			<table class="table table-bordered table-hover">
+				<caption>
+					Таблица 5.
+				</caption>
+				<thead>
+					<tr>
+						<th>Направление</th>
+						<th class="text-center">Сосна</th>
+						<th class="text-center">Береза</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Вдоль волокон</td>
+						<td class="text-center">5030</td>
+						<td class="text-center">3625</td>
+					</tr>
+					<tr>
+						<td>В радиальном направлении</td>
+						<td class="text-center">1450</td>
+						<td class="text-center">1995</td>
+					</tr>
+					<tr>
+						<td>В тангенциальном направлении</td>
+						<td class="text-center">850</td>
+						<td class="text-center">1535</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
 	</main>
 </div>
 <?php include 'footer.php'; ?>

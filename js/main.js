@@ -29,4 +29,10 @@ $(document).ready(function () {
 			clearInterval(interval);
 		}
 	}, 1000);
+
+	setTimeout(function () {
+		$('.banner .text small').addClass('active');
+	}, 800);
+
+	
 });
