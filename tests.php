@@ -309,10 +309,10 @@
 						<div class="text-left inline">
 							Хотите пройти снова?
 						</div>
-						<button type="button" class="btn btn-default" data-dismiss="modal">
+						<button type="button" class="btn btn-warning" data-dismiss="modal">
 							Нет
 						</button>
-						<button type="button" class="btn btn-warning" data-dismiss="modal" onclick="javascript: commonTest.reset();">
+						<button type="button" class="btn btn-default" data-dismiss="modal" onclick="javascript: commonTest.reset();">
 							Да
 						</button>
 					</div>
