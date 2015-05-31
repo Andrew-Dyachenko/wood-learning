@@ -1,6 +1,6 @@
 {
   "name": "wood",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "description": "Работа для диплома",
   "main": "index.js",
@@ -11,6 +11,10 @@
     "type": "git",
     "url": ""
   },
-  "author": "",
-  "license": "BSD-2-Clause"
+  "author": "Semen Korovin",
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "wood",
+    "technologies"
+  ]
 }

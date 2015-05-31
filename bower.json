@@ -1,13 +1,20 @@
 {
   "name": "wood",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
-    "Sema"
+    "Semen Korovin"
   ],
+  "description": "Дипломная работа - для учащихся 7-го класса",
   "moduleType": [
     "globals"
   ],
+  "keywords": [
+    "wood",
+    "technologies",
+    "diploma"
+  ],
   "license": "MIT",
+  "homepage": "wood.esy.es",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -16,6 +23,10 @@
     "tests"
   ],
   "dependencies": {
-    "Nivo-Lightbox": "https://github.com/gilbitron/Nivo-Lightbox.git#~1.2.0"
+    "Nivo-Lightbox": "https://github.com/gilbitron/Nivo-Lightbox.git#~1.2.0",
+    "bootstrap": "~3.3.4",
+    "jquery-migrate": "~1.2.1",
+    "jquery": "1.*",
+    "uniform": "https://github.com/pixelmatrix/uniform.git#~2.1.2"
   }
 }

@@ -222,8 +222,8 @@ footer .author a:hover {
 .inline {
 	display: inline-block;
 }
-#commonTestFailed .modal-body .image,
-#commonTestSuccess .modal-body .image {
+.modal-body .image,
+.modal-body .image {
 	font-size: 200px;
 	line-height: 150px;
 }
