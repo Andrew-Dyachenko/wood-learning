@@ -10,12 +10,12 @@
 
 			<!-- Nav tabs -->
 			<ul class="nav nav-tabs" role="tablist">
-				<li role="presentation">
+				<li role="presentation" class="active">
 					<a href="#test1" aria-controls="test1" role="tab" data-toggle="tab">
 						Общий тест
 					</a>
 				</li>
-				<li role="presentation" class="active">
+				<li role="presentation">
 					<a href="#test2" aria-controls="test2" role="tab" data-toggle="tab">
 						Физико-механический тест
 					</a>
@@ -24,7 +24,7 @@
 
 			<!-- Tab panes -->
 			<div class="tab-content">
-				<div role="tabpanel" class="tab-pane fade" id="test1">
+				<div role="tabpanel" class="tab-pane fade in active" id="test1">
 					<h2 class="text-center">
 						Обобщающий тест:
 					</h2>
@@ -346,7 +346,7 @@
 					</div>
 
 				</div>
-				<div role="tabpanel" class="tab-pane fade in active" id="test2">
+				<div role="tabpanel" class="tab-pane fade" id="test2">
 					<h2 class="text-center">
 						Физико-механические свойства древесины:
 					</h2>
