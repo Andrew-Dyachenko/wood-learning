@@ -29,7 +29,7 @@
 		<p>
 			<figure>
 				<p>
-					<img src="/img/пиление.jpg" alt="Пиление" />
+					<img src="/img/пиление.jpg" alt="Пиление" width="100%" style="max-width: 400px;" />
 				</p>
 				<figcaption>
 					<p>
@@ -39,7 +39,7 @@
 			</figure>
 			<figure>
 				<p>
-					<img src="/img/строгание.jpg" alt="Cтрогание" />
+					<img src="/img/строгание.jpg" alt="Cтрогание" width="100%" style="max-width: 605px;" />
 				</p>
 				<figcaption>
 					<p>
@@ -49,7 +49,7 @@
 			</figure>
 			<figure>
 				<p>
-					<img src="/img/долбление.jpg" alt="Долбление" />
+					<img src="/img/долбление.jpg" alt="Долбление" width="100%" style="max-width: 461px;" />
 				</p>
 				<figcaption>
 					<p>
@@ -62,7 +62,7 @@
 			</p>
 			<figure>
 				<p>
-					<img src="/img/сверление.jpg" alt="Сверление" />
+					<img src="/img/сверление.jpg" alt="Сверление" width="100%" style="max-width: 600px;" />
 				</p>
 				<figcaption>
 					<p>
@@ -72,7 +72,7 @@
 			</figure>
 			<figure>
 				<p>
-					<img src="/img/фрезерование.jpg" alt="Фрезерование" />
+					<img src="/img/фрезерование.jpg" alt="Фрезерование" width="100%" style="max-width: 600px;" />
 				</p>
 				<figcaption>
 					<p>
@@ -85,7 +85,7 @@
 			</p>
 			<figure>
 				<p>
-					<img src="/img/полирование.jpg" alt="Полирование" />
+					<img src="/img/полирование.jpg" alt="Полирование" width="100%" style="max-width: 600px;" />
 				</p>
 				<figcaption>
 					<p>
