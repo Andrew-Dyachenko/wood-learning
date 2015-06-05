@@ -33,6 +33,8 @@ $(document).ready(function () {
 	setTimeout(function () {
 		$('.banner .text small').addClass('active');
 	}, 800);
+
+	$('input:radio, input:checkbox').uniform();
 });
 var test1 = {
 	init: function () {
