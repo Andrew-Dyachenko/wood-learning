@@ -3,12 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Wood</title>
-	<link rel="stylesheet" href="uniform.default.css" media="screen" />
-	<link rel="stylesheet" href="/bower_components/uniform/themes/aristo/css/uniform.aristo.min.css" type="text/css" />
 	<link rel="stylesheet" href="/bower_components/Nivo-Lightbox/nivo-lightbox.css" type="text/css" />
 	<link rel="stylesheet" href="/bower_components/Nivo-Lightbox/themes/default/default.css" type="text/css" />
-	<link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap-theme.min.css">
-	<link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" type="text/css">
+	<link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css">
 	<link rel="stylesheet" href="/css/main.css">
 	<script src="/bower_components/jquery/dist/jquery.min.js"></script>
 	<script src="/bower_components/jquery-migrate/jquery-migrate.min.js"></script>
