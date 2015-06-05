@@ -26,7 +26,6 @@
     "Nivo-Lightbox": "https://github.com/gilbitron/Nivo-Lightbox.git#~1.2.0",
     "bootstrap": "~3.3.4",
     "jquery-migrate": "~1.2.1",
-    "jquery": "1.*",
-    "uniform": "https://github.com/pixelmatrix/uniform.git#~2.1.2"
+    "jquery": "1.*"
   }
 }
