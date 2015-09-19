@@ -12,7 +12,6 @@
 	<script src="/bower_components/jquery-migrate/jquery-migrate.min.js"></script>
 	<script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 	<script src="/bower_components/Nivo-Lightbox/nivo-lightbox.min.js"></script>
-	<script src="/bower_components/uniform/jquery.uniform.min.js"></script>
 	<script src="/js/main.js"></script>
 </head>
 <body>
