@@ -4,8 +4,8 @@
 				<address>
 					<div class="author">
 						<strong>Автор:</strong>
-						<a href="mailto:semen.yrevich@mail.ru?subject=Сайт деревообработки: 'Ваша тема обращения к автору'" title="Написать автору электронное письмо.">
-							Семён Коровин &reg;
+						<a href="mailto:cccp.world@gmail.com?subject=Сайт деревообработки: 'Ваша тема обращения к автору'" title="Написать автору электронное письмо.">
+							Андрей Дьяченко &reg;
 						</a>
 					</div>
 				</address>
